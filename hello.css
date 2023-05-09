@@ -1,0 +1,59 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.text-center{
+    text-align: center;
+}
+.border{
+    border: 2px solid black;
+    background-color: aqua;
+    padding: 20px 20px;
+}
+
+/* .bg-aqua{
+    background-color: aqua;
+} */
+
+.mx-auto{
+    margin: auto;
+}
+
+/* .m-w-20{
+    max-width: 30vw;
+} */
+
+.flexbox{
+    display: flex;
+}
+.flex{
+    display: flex;
+}
+.button{
+    padding: 30px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+.flex-column{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+
+.row{
+    margin: 5px 0;
+}
+
+.row input{
+    font-size: 27px;
+    margin: 7px 0px;
+    padding: 10px 0px;
+}
+.container{
+    background-size: auto;
+}
